@@ -52,4 +52,4 @@ To design and implement a real-time coal mine monitoring system using IoT sensor
 [ThingSpeak Graph](media/graph.png.png)
 
 ## 🔌 Connections
-[Connections](media/connection.png.png)
+[Connections](media/connection.png)
