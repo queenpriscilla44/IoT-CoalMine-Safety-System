@@ -44,3 +44,12 @@ To design and implement a real-time coal mine monitoring system using IoT sensor
 ## 📎 References
 - [Arduino IDE](https://www.arduino.cc/en/software)  
 - [IoT Coal Mine Safety Paper](https://www.ijert.org/iot-based-coal-mine-safety-monitoring-and-alerting-system)
+
+## 🔧 Circuit Diagram
+[Circuit Diagram](media/components.png.png)
+
+## 📊 ThingSpeak Graph
+[ThingSpeak Graph](media/graph.png.png)
+
+## 🔌 Connections
+[Connections](media/connection.png.png)
